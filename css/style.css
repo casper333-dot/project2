@@ -1,0 +1,25 @@
+.bg1{
+    background-image: url(../images/bg1.jpg);
+    background-size: cover;
+    height: 70vh;
+
+}
+.bg2{
+    
+    
+    max-height: 500px;
+    max-width: 500px;
+
+}
+.bg3{
+    
+    
+    max-height: 500px;
+    max-width: 500px;
+
+
+}
+.t-f{
+    font-family: 'Turret Road', cursive;
+}
+
